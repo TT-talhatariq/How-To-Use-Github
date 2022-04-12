@@ -56,3 +56,10 @@ img {
   border-bottom: 1px solid #888888;
   margin: auto;
 }
+
+.image {
+  margin: 2rem;
+}
+.image p {
+  margin-bottom: 1.2rem;
+}
